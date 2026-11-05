@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-image: url("programming-background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #16324f;
+}
+
+header {
+    background-color: #0b4f8a;
+    padding: 15px;
+    text-align: center;
+}
+
+.logo {
+    width: 70px;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 8px;
+}
+
+main {
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: white;
+    border-radius: 12px;
+}
+
+.profielfoto {
+    display: block;
+    width: 180px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+h1,
+h2 {
+    color: #0b4f8a;
+}
+
+h1,
+.ondertitel,
+.inleiding {
+    text-align: center;
+}
+
+.ondertitel {
+    color: #20a4f3;
+}
+
+.blok {
+    background-color: #eef8ff;
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}

@@ -1,0 +1,52 @@
+h1 {
+    color: rgb(116, 107, 107);
+    background-color: rgba(118, 202, 144, 0.64);
+    text-align: center;
+
+}
+
+p {
+    color: rgb(222, 222, 208);
+    text-align: center;
+   border: 2px solid rgb(0, 0, 0);
+  border-radius: 8px;
+  padding: 5px; 
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+body {
+
+background: linear-gradient(90deg, rgba(87, 199, 133, 1) 0%, rgba(42, 91, 155, 1) 100%);
+}
+
+.Foto { 
+    width: 200px;
+    display: block;
+    margin: 0 auto 25px auto;
+}
+.logo{
+    width: 75px;
+}
+nav {
+    background-color: #4CAF50;
+    width: 150px;
+    margin-top: 10px;
+}
+div {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+nav {
+    background-color: #4CAF50;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+

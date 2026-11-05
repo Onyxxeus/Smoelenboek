@@ -1,0 +1,57 @@
+h1 {
+    color: black;
+    text-align: center;
+    background-color: transparent;
+    margin-bottom: 80px;
+    background-color: rgb(2, 141, 141);
+}
+
+h3 {
+    color: black;
+    background-color: transparent;
+    margin: 10px;
+    padding-left: 570px;
+    background-color: rgb(2, 141, 141);
+}
+
+
+body {
+    background: #00b7ff;
+    background: linear-gradient(180deg, rgba(0, 183, 255, 1) 0%, rgba(103, 224, 182, 1) 50%, rgba(27, 171, 171, 1) 100%);
+}
+
+h3{
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 8px;
+  padding: 5px;
+  margin-left: 540px;
+  margin-right: 540px;
+}
+
+.mezelf{
+    width: 150px;
+    display: block;
+    margin: 0 auto 25px auto;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 8px;
+}
+
+.logo{
+    width: 70px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+header img {
+    width: 100px;
+}
+
+nav a {
+    margin-right: 5px;
+    font-weight: bold;
+     text-decoration: none;
+}
